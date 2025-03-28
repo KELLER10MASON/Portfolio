@@ -1,5 +1,24 @@
-# Ignore binaries, temp files, and logs
+# Ignore binaries and executables
 
 bin/
-*.log
+*.o
 *.out
+*.exe
+*.dll
+
+# Logs and temps
+
+*.log
+*.tmp
+*.swp
+
+# Python
+
+__pychache__/
+*.pyc
+
+# C#
+
+*.csproj.user
+*.dll
+*.pdb
