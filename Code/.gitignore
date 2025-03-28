@@ -1,0 +1,5 @@
+# Ignore binaries, temp files, and logs
+
+bin/
+*.log
+*.out
