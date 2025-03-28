@@ -1,0 +1,7 @@
+.vs/**/*
+HelpOApp/.vs/**/*
+HelpOApp/bin/**/*
+HelpOApp/obj/**/*
+HelpOApp.Library/.vs/**/*
+HelpOApp.Library/bin/**/*
+HelpOApp.Library/obj/**/*
